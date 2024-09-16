@@ -1,0 +1,7 @@
+{
+  "Culture": "en",
+  "Texts": {
+    "AppName": "MyMovieDb",
+    "MyMovieDb.Movie:InvalidMovie": "Invalid Movie: {Id}"
+  }
+}
